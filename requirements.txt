@@ -1,4 +1,5 @@
+pandas
+psycopg[binary]
+requests
 streamlit
 streamlit-autorefresh
-requests
-pandas
